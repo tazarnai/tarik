@@ -1,0 +1,30 @@
+Frage 1:
+Was ist SRP? Was ist der Vorteil davon?
+Moegliche Antwort
+Single responsibility principle. Eine Klasse hat eine fix definierte Aufgabe
+
+Der Vorteil: Wenn alle Klassen nach diesem Prinzip aufgebaut sind und eine Änderung in einer
+Klasse nötig wird, muss die Änderung nur in dieser Klasse gmacht werden.
+Wenn eine Klasse hinzugefügt wird, muss keine andere Klasse verändert werden.
+
+
+Frage 2:
+Was ist DRY? Was ist der Vorteil davon?
+Moegliche Antwort
+Don't repeat yourself. Eine Funktionalitaet solle nur einmal implementiert werden.
+
+Eines der obersten Gesetze der Programmierung. Ist auch in Strukturierten Programmiersprachen
+möglich, wurde leider nicht immer schön angewendet.
+
+
+Frage 3:
+Was ist Refactoring? Was ist der Vorteil davon?
+Moegliche Antwort
+Restrukturierung der Software. Interne Verbesserungen. Gegen aussen bleibt die Funktionalitaet
+gleich.
+
+Das Ziel des Refactoring ist, das die Struktur und der Aufbau/Design einer Software besser wird.
+Der grosse Vorteil ist, dass man sich auf diese Struktur konzentrieren kann, da die
+funktionalität ja schon geschriben ist. Ausserdem sollten alle Funktionalitäten mit UnitTests
+beschriben sein. Diese können nach einer Änderung im Rahmen eines Refactorings einfach durch-
+geführt werden und müssen ohne Änderung (am JUnit-Test) wieder durchlaufen.

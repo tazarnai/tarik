@@ -1,0 +1,35 @@
+1. Frage:
+Wie sollte ein Bug prozessiert werden?
+Moegliche Antwort
+   1. Der Bug wird vom Tester gefunden
+   2. Der Bug wird vom Tester erfasst
+   3. Der Bug wird vom Projektleiter priorisiert
+   4. Der Bug wird vom Entwickler gefixt
+   5. Der Bug wird vom Tester verifiziert
+   6. Der Bug wird vom Tester geschlossen
+
+Hier geht man davon aus, das nur Tester Bugs finden. Es könnten natürlich auf normale Kunden sein.
+Bei der Priorisierung sollte dann der Kunde, vorallem der direkt betroffene auch ein Wort
+mitsprechen könne, da der Projektleiter einen Bug für unwichtig halten kann, die Funktionalität
+jedoch sehr wichtig für den Benutzer ist.
+Wenn ein Kunde den Fehler findet und erfasst, muss natürlich trotzdem noch ein Tester
+eingesetzt werden.
+
+2. Frage
+
+Was ist System Testing?
+Moegliche Antwort
+System testing testet das ganze System inklusive der externen Aebhaeningkeiten
+(z. B. Schnittstelle zu einem Time Zone Server). Mit dem System testing wird auch ueberprueft ob die Requriements
+erfuellt wurden.
+
+Wichtig ist, das beim System Test das Produkt als Blackbox angeschaut wird. Es geht darum die Funktionalitäten/
+User Stories/Use Cases auszutesten.
+
+3. Frage
+
+Was ist der 'Output' von einer Iteration?
+Moegliche Antwort
+Kurz: Ein Stueck Software das funktioniert und getestet ist. Die Dokumentation ist Synchron mit dem Code.
+
+Als Zusatz: Verpackt als Produkt das man dem Kunden ausliefern kann.

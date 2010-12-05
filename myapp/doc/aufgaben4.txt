@@ -1,0 +1,36 @@
+Frage 1:
+Was ist das grundsatzliche Ziel von einem 'Daily Standup Meeting'?
+Moegliche Antwort
+Kurzer Austausch: Wer macht was? Was sind die Probleme?
+
+Es ist einerseits für den Manager eine gute Möglichkeit das Projekt, die Tasks und die
+Mitarbeiter im Überblick zu haben. Der Austausch bei ausstehenden oder bewältigten
+Problem gibt den Teammitgliedern die Möglichkeit verschiedene zu sehen und sich dann in
+Zukunft daran zu erinnern oder bei austehenden Problemen selbst helfen zu können.
+Wenn jemand ein Problem hat fragt er irgendwan villeicht jemanden, von dem er denkt das
+dieser die Lösung weiss, in einem solchen Meeting kann das ganze Team gefragt werden.
+
+
+Frage 2:
+Wieso sollte ein 'Iterationsdashbord' nicht virtuell sein?
+Moegliche Antwort
+Auf einer Stellwand ist alles auf ein Blick ersichtlich (Dokument ist zu gross fuer den
+Bildschirm). Jeder kann das Dashboard updaten (z. B. Einen Task auf 'Done' setzen. Es macht
+Spass dies physikalisch zu tun. Es ist sehr intuitiv.
+
+Mit der richtigen Software könnte ein Iterationsdashboard genau so gut virtuell geführt werden,
+dabei wären einige Vorteile zu ziehen (History, Suche, Availability (im Büro Zürich, bei mir zuhause
+und im Büro NY).
+Bei Standard Software, PowerPoint, Visio, ist natürliche der Ansatz mit einer Stellwand viel einfacher
+und übersichtlicher.
+
+
+Frage 3:
+Lohnt es sich an zwei User Storys gleichzeitig zu arbeiten?
+Moegliche Antwort
+Dies sollte nur gemacht werden, wenn die zwei Tasks sehr eng miteinander verbunden sind (im
+gleichen Themengebiet). Ansonsten sollte immer nur an einem Task gearbeitet werden.
+
+Meiner Meinung nach sollten die Tasks so aufgebaut sein, das man gar nicht auf die Idee kommen kann
+an zwei Tasks gleichzeitig zu arbeiten.
+D.h. kurze Tasks, spezifische Arbeiten.
